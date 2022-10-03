@@ -1,0 +1,3 @@
+// The data returned is stored in a result table, called the result-set.
+SELECT column1, column2, ...
+FROM table_name;
