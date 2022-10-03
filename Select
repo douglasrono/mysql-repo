@@ -7,3 +7,9 @@ FROM table_name;
 
 //Select all columns
 SELECT * FROM table_name;
+
+//The SELECT DISTINCT statement is used to return only distinct (different) values.
+
+
+SELECT DISTINCT column1, column2, ...
+FROM table_name;
