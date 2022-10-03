@@ -7,6 +7,7 @@
 <li>To use SQL to get the data you want. To use HTML / CSS to style the page</li>
 </ul>
 <pre>
+<h3> SQL Commands</h3>
 SELECT - extracts data from a database
 UPDATE - updates data in a database
 DELETE - deletes data from a database
