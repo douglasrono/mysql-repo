@@ -6,7 +6,7 @@
 <li>To use a server-side scripting language, like PHP or ASP</li>
 <li>To use SQL to get the data you want. To use HTML / CSS to style the page</li>
 </ul>
-```
+<pre>
 SELECT - extracts data from a database
 UPDATE - updates data in a database
 DELETE - deletes data from a database
@@ -18,4 +18,4 @@ ALTER TABLE - modifies a table
 DROP TABLE - deletes a table
 CREATE INDEX - creates an index (search key)
 DROP INDEX - deletes an index
-```
+</pre>
