@@ -1,3 +1,9 @@
+
 // The data returned is stored in a result table, called the result-set.
+//column1, column2, ... are the field names of the table you want to select data from
+
 SELECT column1, column2, ...
 FROM table_name;
+
+//Select all columns
+SELECT * FROM table_name;
