@@ -1,14 +1,14 @@
 
-// The data returned is stored in a result table, called the result-set.
-//column1, column2, ... are the field names of the table you want to select data from
+--The data returned is stored in a result table, called the result-set.
+--column1, column2, ... are the field names of the table you want to select data from
 
-SELECT column1, column2, ...
+SELECT column1, column2, ..
 FROM table_name;
 
-//Select all columns
+--Select all columns
 SELECT * FROM table_name;
 
-//The SELECT DISTINCT statement is used to return only distinct (different) values.
+--The SELECT DISTINCT statement is used to return only distinct (different) values.
 
 
 SELECT DISTINCT column1, column2, ...
