@@ -192,7 +192,7 @@ SELECT f.title
 
 <br /><br />
 
-# Usnig Sets (UNION,INTERSECT)
+# Using Sets (UNION,INTERSECT)
 when performing set operations on two data sets, the following guidelines must apply:
 
 • Both data sets must have the same number of columns.
@@ -233,7 +233,7 @@ WHERE a.first_name LIKE 'D%' AND a.last_name LIKE 'T%';
 
 ### The except Operator
 
-![See Image](except.png)
+
 
 ```sql
 SELECT a.first_name, a.last_name
